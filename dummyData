@@ -266,3 +266,8 @@ localhost:4444/api/user
     "jobId": "600576e16ce7b7325f5b5c70",
     "rating": 2.0
 }
+
+{
+    "jobId": "600576e16ce7b7325f5b5c70",
+    "rating": 2.0
+}
